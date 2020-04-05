@@ -6,7 +6,7 @@ const Background = ({children}) => {
     const {darkMode} = themeContext;
 
     return (
-       <div className={`bg-${darkMode ? "light" : "dark"} text-${darkMode ? "dark" : "light" } vhgi-100`}>
+       <div className={`bg-${darkMode ? "light" : "dark"} text-${darkMode ? "dark" : "light" } vh-100`}>
            {children}
        </div>
     );
