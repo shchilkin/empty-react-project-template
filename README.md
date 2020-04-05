@@ -1,4 +1,4 @@
-#Empty react project
+# Empty react project template
 
 This is an empty react project template
 
